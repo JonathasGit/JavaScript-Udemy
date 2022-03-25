@@ -17,5 +17,8 @@
 }
 
 //Desafio, imprimir no console os numeros pares e impar,
-// separando os impar em um bloco de código 
+// separando os impar em um bloco de código
 //e os pares em outro bloco de código
+
+console.log("1,3,5,7,9, Bloco 1 - Alterado");
+console.log("2,4,6,8,10, Bloco 2 Alterado");
