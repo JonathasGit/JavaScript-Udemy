@@ -2,6 +2,10 @@
 
 let raio = 10; 
 const PI = 3.14;
-let resultado = PI * raio * raio;
+let resultadoAreaCirc = PI * raio * raio;
 
-console.log("O resultado é " + resultado);
+console.log("O resultado da área é " + resultadoAreaCirc + " m2.");
+//console.log(Math.PI);
+
+resultadoAreaCirc = Math.PI * raio * raio;
+console.log("O resultado da área é " + resultadoAreaCirc + " m2.");
