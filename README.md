@@ -4,5 +4,6 @@ Curso sobre JavaScript da <a href="https://www.udemy.com/">Udemy</a>, ministrado
 
 Certificado:  Em andamento 6/6/22 - 22:34<br>
  7/6/22 - 22:41- nao fdeito nada<br>
+ 8/6/22 - 23:19- nao fdeito nada<br>
 
 <p align="center">©️ 2022 - :octocat: JonathasGit</p>
