@@ -36,6 +36,9 @@ console.log('Ana,Maria,Pedro'.split(','));
 
 //Cadeia de caracteres o String, 
 
+console.log(nome.indexOf('N'));
+console.log(nome.indexOf('o'));
+console.log(nome.indexOf('e'));
 
 
 
