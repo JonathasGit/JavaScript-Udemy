@@ -38,7 +38,8 @@ console.log('Ana,Maria,Pedro'.split(','));
 
 console.log(nome.indexOf('N'));
 console.log(nome.indexOf('o'));
-console.log(nome.indexOf('e'));
+console.log(nome.indexOf('o'));
+console.log(nome.indexOf('m'));
 
 
 
